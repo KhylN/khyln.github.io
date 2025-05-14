@@ -18,4 +18,5 @@
 - Distributed Social Network
 - Neuromance
 - Star Craft II Bot
+- Event Manager Java App
 - Cryptography Projects
