@@ -12,3 +12,10 @@
 ## Backend:
 
 - Django
+
+## Projects:
+
+- Distributed Social Network
+- Neuromance
+- Star Craft II Bot
+- Cryptography Projects
