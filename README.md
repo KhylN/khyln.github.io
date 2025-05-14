@@ -3,3 +3,12 @@
 # Setup
 
 # Architecture
+
+## Front End:
+
+- React
+- Redux
+
+## Backend:
+
+- Django
